@@ -1,0 +1,26 @@
+html{
+ background-image: url("img/tech-background.webp") ;
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+body{
+    background-color: aliceblue;
+    border: solid;
+    width: 600px;
+    margin: 25px auto;
+    padding:25px 150px 50px;
+}
+
+h1,h2,h3,h4{
+    font-family: "Gill Sans", "Gill Sans MT";
+    letter-spacing: 2px;
+}
+p,ul{font-family:Verdana, Geneva, Tahoma, sans-serif ;}
+
+h2{
+    margin-top: 50px; color:#f15c2a ;}
+
+h3{margin-top: 50px;color:#1774bb ;}
+h4{
+    margin-top: 50px;color:#fcb041 ;
+}
